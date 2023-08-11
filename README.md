@@ -1,2 +1,2 @@
 # element-review-stars
-https://github.com/VA2307/element-review-stars.git
+https://va2307.github.io/element-review-stars/
